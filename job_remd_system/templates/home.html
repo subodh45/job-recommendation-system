@@ -1,0 +1,74 @@
+<html>
+  <head>
+ <title>Job recommendation system </title>
+<style>
+ .nav{box-shadow: none !important;
+  background-color : #33ccff !important;
+  color: black !important;
+  outline: none !important; height:1.2cm;
+  border-radius: 20px;
+text-align: center;
+}
+
+*{font-size:30px}
+form{background-color: #fff; width:30%; border-radius:10px; margin-top:1px;
+     position:fixed; right:90px}
+body{
+  background-image: linear-gradient(#333399, #33ccff);
+  
+  }
+.head{
+color: #fff;
+}
+.sub{
+background-color: #333399;
+border-radius: 20px;
+}
+.text{
+border: 0px;
+border-radius: 20px;
+background-color: #33ccff;
+color: #000;
+text-align: center;
+}
+</style>
+  </head>
+
+  <body>
+    <div class="nav">
+      <h1><b>KP solution</b></h1>
+    </div>
+    <div class="form">
+   <center>
+
+     <h1 class="head">Job Recommendation System </h1>
+     <form method="POST" align:left>
+         <label> <h2> Years of Experience :</h2><label/>
+         <input type="number" name="num" class="text" placeholder="Enter your experience " required />
+         <br>
+        
+    
+         <label> <h2> Education: </h2><label/>
+         <input type="radio" name="edu"  value="bsc" checked=true />bsc
+         <input type="radio" name="edu"  value="BE"  />BE
+         <input type="radio" name="edu"  value="ME"  />ME
+        
+         <br>
+            <label> <h2> Enter your salary expectation :</h2><label/>
+         <input type="number" name="sal" class="text" placeholder="Enter salary expectation " required />
+         <br><br>
+          
+        <input type="submit"  class="sub" value="Recommend "  />
+        <br>
+     </form>
+
+    {{m}}
+   </center>
+     
+    </div>
+
+
+  </body>
+
+
+</html>

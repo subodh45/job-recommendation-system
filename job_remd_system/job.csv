@@ -1,0 +1,31 @@
+Exp,Education,salary expectation,job
+0,bsc,200000,junior system Engineer
+1,bsc,250000,junior system Engineer
+2,bsc,300000,senior system engineer
+3,bsc,400000,senior system engineer
+0,bsc,500000,no suitable job
+1,bsc,500000,no suitable job
+0,BE,350000,System engineer
+1,BE,400000,System engineer
+2,BE,500000,Delivery Manager
+3,BE,530000,Delivery Manager
+4,BE,550000,Technology Analyst
+5,BE,600000,Technology Analyst 
+7,BE,700000,Technology lead 
+8,BE,800000,Technology lead 
+0,ME,800000,Technical Lead
+1,ME,900000,Program Manager
+2,ME,1200000,Program Manager
+3,ME,1500000,Project Manager
+4,ME,1600000,Project Manager
+5,ME,1800000,Project Manager
+0,bsc,1200000,No suitable job
+2,bsc,1200000,No suitable job
+4,bsc,1500000,No suitable job
+0,BE,1200000,No suitable job
+0,BE,1500000,No suitable job
+2,BE,2000000,No suitable job
+0,ME,1800000,no suitable job
+1,ME,1500000,no suitable job
+2,ME,1800000,no suitable job
+0,bsc,300000,no suitable job
